@@ -1,6 +1,6 @@
 # QR Studio
 
-A clean, production-ready QR code generator that runs entirely in the browser. Drop a link or any text, customize colors / size / error-correction level, and download as PNG or SVG.
+A clean, production-ready QR code generator that runs entirely in the browser. Drop a link or any text, customize colors / size / error-correction level, and download as PNG or SVG. 
 
 ## Run locally
 
